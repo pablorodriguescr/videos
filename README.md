@@ -1,4 +1,11 @@
-    <html>
+// amigos me ajudem ae..
+
+//esse codigo gera um nodelist dos videos selecionados atraves do checkbox com o querySelectAll. preciso fazer o seguinte, antes do //primeiro video preciso colocar um texto concatenado com o id do primeiro video dizendo que e o usuario escolheu o determinado video e //explicando como sera o video, depois do texto reproduzir o video o final e antes do segundo video tambem preciso apresentar um texto //concatenado com o segundo video. e preciso fazer isso com todos os videos selecionados no checkbox..
+// aceito sugestão de como fazer isso da melhor maneira, outra linguagem outro estilo. me ajudem..
+
+
+
+<html>
     <head>
     <meta charset="utf8">
     <meta content-type="text/html">
